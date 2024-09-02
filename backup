@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "AIOZUSDT",
+        "date": "06월13일",
+        "link": "https://coinmarketcap.com/currencies/aioz-network/"
+    },
+    {
+        "symbol": "ATHUSDT",
+        "date": "06월13일",
+        "link": "https://coinmarketcap.com/currencies/aethir/"
+    },
+    {
+        "symbol": "IOUSDT",
+        "date": "06월11일",
+        "link": "https://coinmarketcap.com/currencies/io-net/"
+    },
+    {
+        "symbol": "GMEUSDT",
+        "date": "06월11일",
+        "link": "https://coinmarketcap.com/currencies/gme/"
+    },
+    {
+        "symbol": "1000000BABYDOGEUSDT",
+        "date": "06월11일",
+        "link": "https://coinmarketcap.com/currencies/baby-doge-coin/"
+    },
+    {
+        "symbol": "PONKEUSDT",
+        "date": "06월07일",
+        "link": "https://coinmarketcap.com/currencies/ponke/"
+    },
+    {
+        "symbol": "ETHBTCUSDT",
+        "date": "06월07일",
+        "link": "https://www.bybit.com/trade/usdt/BTCUSDT"
+    },
+    {
+        "symbol": "TAIKOUSDT",
+        "date": "06월05일",
+        "link": "https://coinmarketcap.com/currencies/taiko/"
+    },
+    {
+        "symbol": "DOGUSDT",
+        "date": "06월04일",
+        "link": "https://coinmarketcap.com/currencies/dog-go-to-the-moon-rune/"
+    },
+    {
+        "symbol": "RAYDIUMUSDT",
+        "date": "06월04일",
+        "link": "https://coinmarketcap.com/currencies/raydium/"
+    },
+    {
+        "symbol": "BENDOGUSDT",
+        "date": "06월03일",
+        "link": "https://coinmarketcap.com/currencies/ben-the-dog/"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "date": "05월31일",
+        "link": "https://coinmarketcap.com/currencies/phala-network/"
+    },
+    {
+        "symbol": "1000BEERUSDT",
+        "date": "05월31일",
+        "link": "https://coinmarketcap.com/currencies/beercoin/"
+    },
+    {
+        "symbol": "MONUSDT",
+        "date": "05월29일",
+        "link": "https://coinmarketcap.com/currencies/mon/"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "date": "05월29일",
+        "link": "https://coinmarketcap.com/currencies/osmosis/"
+    },
+    {
+        "symbol": "NYANUSDT",
+        "date": "05월29일",
+        "link": "https://coinmarketcap.com/currencies/nyan-heroes/"
+    },
+    {
+        "symbol": "PENGUSDT",
+        "date": "05월27일",
+        "link": "https://coinmarketcap.com/currencies/peng-sol/"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "date": "05월27일",
+        "link": "https://coinmarketcap.com/currencies/chia-network/"
+    },
+    {
+        "symbol": "SPECUSDT",
+        "date": "05월27일",
+        "link": "https://coinmarketcap.com/currencies/spectrum-network/"
+    },
+    {
+        "symbol": "MAPOUSDT",
+        "date": "05월23일",
+        "link": "https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/spectral"
+    },
+    {
+        "symbol": "CANTOUSDT",
+        "date": "05월23일",
+        "link": "https://coinmarketcap.com/currencies/canto/"
+    },
+    {
+        "symbol": "MASAUSDT",
+        "date": "05월21일",
+        "link": "https://coinmarketcap.com/currencies/masa-network/"
+    },
+    {
+        "symbol": "DRIFTUSDT",
+        "date": "05월21일",
+        "link": "https://coinmarketcap.com/currencies/drift/"
+    },
+    {
+        "symbol": "VELOUSDT",
+        "date": "05월20일",
+        "link": "https://coinmarketcap.com/currencies/velo/"
+    },
+    {
+        "symbol": "NOTUSDT",
+        "date": "05월17일",
+        "link": "https://coinmarketcap.com/currencies/notcoin"
+    },
+    {
+        "symbol": "LFTUSDT",
+        "date": "05월16일",
+        "link": "https://coinmarketcap.com/currencies/lifeform-token/"
+    },
+    {
+        "symbol": "1000000MOGUSDT",
+        "date": "05월16일",
+        "link": "https://coinmarketcap.com/currencies/mog-coin/"
+    },
+    {
+        "symbol": "FTNUSDT",
+        "date": "05월16일",
+        "link": "https://coinmarketcap.com/currencies/fasttoken/"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "date": "05월14일",
+        "link": "https://coinmarketcap.com/currencies/gnosis-gno/"
+    },
+    {
+        "symbol": "BBUSDT",
+        "date": "05월14일",
+        "link": "https://coinmarketcap.com/currencies/bouncebit/"
+    },
+    {
+        "symbol": "COSUSDT",
+        "date": "05월09일",
+        "link": "https://coinmarketcap.com/currencies/contentos/"
+    },
+    {
+        "symbol": "FIREUSDT",
+        "date": "05월09일",
+        "link": "https://coinmarketcap.com/currencies/matr1x-fire/"
+    },
+    {
+        "symbol": "REZUSDT",
+        "date": "05월08일",
+        "link": "https://coinmarketcap.com/currencies/renzo/"
+    }
+]

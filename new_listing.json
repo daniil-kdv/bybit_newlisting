@@ -1,0 +1,241 @@
+[
+    {
+        "symbol": "ZKUSDT",
+        "date": "06월20일",
+        "link": "https://coinmarketcap.com/currencies/zksync/",
+        "yfinance": "ZK24091-USD",
+        "account": "zksync"
+    },
+    {
+        "symbol": "1000APUUSDT",
+        "date": "06월20일",
+        "link": "https://coinmarketcap.com/currencies/apu-apustaja/",
+        "yfinance": "APU30008-USD",
+        "account": "ApusCoin"
+    },
+    {
+        "symbol": "ZKJUSDT",
+        "date": "06월17일",
+        "link": "https://coinmarketcap.com/currencies/polyhedra-network/",
+        "yfinance": "ZKJ-USD",
+        "account": "PolyhedraZK"
+    },
+    {
+        "symbol": "AIOZUSDT",
+        "date": "06월13일",
+        "link": "https://coinmarketcap.com/currencies/aioz-network/",
+        "yfinance": "AIOZ-USD",
+        "account": "aioznetwork"
+    },
+    {
+        "symbol": "ATHUSDT",
+        "date": "06월13일",
+        "link": "https://coinmarketcap.com/currencies/aethir/",
+        "yfinance": "ATH30083-USD",
+        "account": "AethirCloud"
+    },
+    {
+        "symbol": "IOUSDT",
+        "date": "06월11일",
+        "link": "https://coinmarketcap.com/currencies/io-net/",
+        "yfinance": "IO29835-USD",
+        "account": "ionet"
+    },
+    {
+        "symbol": "GMEUSDT",
+        "date": "06월11일",
+        "link": "https://coinmarketcap.com/currencies/gme/",
+        "yfinance": "GME-USD",
+        "account": "gmecoinsol"
+    },
+    {
+        "symbol": "1000000BABYDOGEUSDT",
+        "date": "06월11일",
+        "link": "https://coinmarketcap.com/currencies/baby-doge-coin/",
+        "yfinance": "BABYDOGE-USD",
+        "account": "babydogecoin"
+    },
+    {
+        "symbol": "PONKEUSDT",
+        "date": "06월07일",
+        "link": "https://coinmarketcap.com/currencies/ponke/",
+        "yfinance": "PONKE-USD",
+        "account": "ponkesol"
+    },
+    {
+        "symbol": "TAIKOUSDT",
+        "date": "06월05일",
+        "link": "https://coinmarketcap.com/currencies/taiko/",
+        "yfinance": "TAIKO-USD",
+        "account": "taikoxyz"
+    },
+    {
+        "symbol": "DOGUSDT",
+        "date": "06월04일",
+        "link": "https://coinmarketcap.com/currencies/dog-go-to-the-moon-rune/",
+        "yfinance": "DOG-USD",
+        "account": "doggotomoonsol"
+    },
+    {
+        "symbol": "RAYDIUMUSDT",
+        "date": "06월04일",
+        "link": "https://coinmarketcap.com/currencies/raydium/",
+        "yfinance": "RAY-USD",
+        "account": "RaydiumProtocol"
+    },
+    {
+        "symbol": "BENDOGUSDT",
+        "date": "06월03일",
+        "link": "https://coinmarketcap.com/currencies/ben-the-dog/",
+        "yfinance": "BENDOG-USD",
+        "account": "ben_dog_"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "date": "05월31일",
+        "link": "https://coinmarketcap.com/currencies/phala-network/",
+        "yfinance": "PHA-USD",
+        "account": "phalanetwork"
+    },
+    {
+        "symbol": "1000BEERUSDT",
+        "date": "05월31일",
+        "link": "https://coinmarketcap.com/currencies/beercoin/",
+        "yfinance": "BEER31337-USD",
+        "account": "beercoinmeme"
+    },
+    {
+        "symbol": "MONUSDT",
+        "date": "05월29일",
+        "link": "https://coinmarketcap.com/currencies/mon/",
+        "yfinance": "MON30950-USD",
+        "account": "monprotocol"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "date": "05월29일",
+        "link": "https://coinmarketcap.com/currencies/osmosis/",
+        "yfinance": "OSMO-USD",
+        "account": "osmosiszone"
+    },
+    {
+        "symbol": "NYANUSDT",
+        "date": "05월29일",
+        "link": "https://coinmarketcap.com/currencies/nyan-heroes/",
+        "yfinance": "NYAN24989-USD",
+        "account": "nyanheroes"
+    },
+    {
+        "symbol": "PENGUSDT",
+        "date": "05월27일",
+        "link": "https://coinmarketcap.com/currencies/peng-sol/",
+        "yfinance": "PENG-USD",
+        "account": "pengonsolana"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "date": "05월27일",
+        "link": "https://coinmarketcap.com/currencies/chia-network/",
+        "yfinance": "XCH-USD",
+        "account": "chia_project"
+    },
+    {
+        "symbol": "MAPOUSDT",
+        "date": "05월23일",
+        "link": "https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/spectral",
+        "yfinance": "MAPO-USD",
+        "account": "spectral_labs"
+    },
+    {
+        "symbol": "CANTOUSDT",
+        "date": "05월23일",
+        "link": "https://coinmarketcap.com/currencies/canto/",
+        "yfinance": "CANTO-USD",
+        "account": "CantoPublic"
+    },
+    {
+        "symbol": "MASAUSDT",
+        "date": "05월21일",
+        "link": "https://coinmarketcap.com/currencies/masa-network/",
+        "yfinance": "MASA-USD",
+        "account": "getmasafi"
+    },
+    {
+        "symbol": "DRIFTUSDT",
+        "date": "05월21일",
+        "link": "https://coinmarketcap.com/currencies/drift/",
+        "yfinance": "DRIFT-USD",
+        "account": "DriftProtocol"
+    },
+    {
+        "symbol": "VELOUSDT",
+        "date": "05월20일",
+        "link": "https://coinmarketcap.com/currencies/velo/",
+        "yfinance": "VELO-USD",
+        "account": "veloprotocol"
+    },
+    {
+        "symbol": "NOTUSDT",
+        "date": "05월17일",
+        "link": "https://coinmarketcap.com/currencies/notcoin",
+        "yfinance": "NOT-USD",
+        "account": "thenotcoin"
+    },
+    {
+        "symbol": "LFTUSDT",
+        "date": "05월16일",
+        "link": "https://coinmarketcap.com/currencies/lifeform-token/",
+        "yfinance": "LFT27508-USD",
+        "account": "lifeformcc"
+    },
+    {
+        "symbol": "1000000MOGUSDT",
+        "date": "05월16일",
+        "link": "https://coinmarketcap.com/currencies/mog-coin/",
+        "yfinance": "MOG-USD",
+        "account": "MogCoinEth"
+    },
+    {
+        "symbol": "FTNUSDT",
+        "date": "05월16일",
+        "link": "https://coinmarketcap.com/currencies/fasttoken/",
+        "yfinance": "FTN-USD",
+        "account": "fasttoken_com"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "date": "05월14일",
+        "link": "https://coinmarketcap.com/currencies/gnosis-gno/",
+        "yfinance": "GNO-USD",
+        "account": "gnosischain"
+    },
+    {
+        "symbol": "BBUSDT",
+        "date": "05월14일",
+        "link": "https://coinmarketcap.com/currencies/bouncebit/",
+        "yfinance": "BB30746-USD",
+        "account": "bounce_bit"
+    },
+    {
+        "symbol": "COSUSDT",
+        "date": "05월09일",
+        "link": "https://coinmarketcap.com/currencies/contentos/",
+        "yfinance": "COS-USD",
+        "account": "contentosio"
+    },
+    {
+        "symbol": "FIREUSDT",
+        "date": "05월09일",
+        "link": "https://coinmarketcap.com/currencies/matr1x-fire/",
+        "yfinance": "FIRE29273-USD",
+        "account": "matr1xofficial"
+    },
+    {
+        "symbol": "REZUSDT",
+        "date": "05월08일",
+        "link": "https://coinmarketcap.com/currencies/renzo/",
+        "yfinance": "REZ-USD",
+        "account": "renzoprotocol"
+    }
+]
+
